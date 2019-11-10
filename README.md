@@ -1,3 +1,4 @@
 # Insight
-To run this program if you don't have docker download it first
-Then run docker run -it -p 8888:8888 -v "$PWD":/home/jovyan/work  jupyter/pyspark-notebook
+1. To run this software you need python and pyspark to be installed in your system.
+2. However, if you are in no mood to install these tools. Just upload the file to google colab and it will run perfectly
+3. Lastly you need keys for  google - vision,TextToSpeech,Translation,TranslationAPIEditior 
